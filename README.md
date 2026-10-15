@@ -6,7 +6,7 @@
 
 Ferramenta de estudo de **lei seca** para concurseiros, estudantes de Direito e quem precisa conhecer uma norma a fundo. A LIO-L lê a lei **artigo por artigo**, treina a percepção das palavras que as bancas trocam e faz você responder itens **Certo/Errado no estilo da prova**, com confiança declarada e nota líquida.
 
-A LIO-L faz parte da família **LIO**. A [LIO-E](https://github.com/JOACYFRANCA/lio) (Educacional) é a ferramenta de leitura de textos densos; a LIO-L é derivada dela e adaptada a textos normativos. Na lei não há parágrafo denso nem ideia escondida: **tudo é importante**, e o trabalho do leitor deixa de ser *selecionar* para ser *discriminar*: perceber a diferença entre "pode" e "deve", entre "até dois anos" e "dois anos", entre a regra e a ressalva no fim do inciso. A metodologia completa está em [METODOLOGIA.md](METODOLOGIA.md).
+A LIO-L faz parte da família **LIO**. A [LIO-E](https://github.com/JOACYFRANCA/lio) (Educacional) é a ferramenta de leitura de textos densos, e a [LIO-C](https://github.com/JOACYFRANCA/lio-c) é a de ciências (Matemática, Física e Química). A LIO-L é derivada da LIO-E e adaptada a textos normativos. Na lei não há parágrafo denso nem ideia escondida: **tudo é importante**, e o trabalho do leitor deixa de ser *selecionar* para ser *discriminar*: perceber a diferença entre "pode" e "deve", entre "até dois anos" e "dois anos", entre a regra e a ressalva no fim do inciso. A metodologia completa está em [METODOLOGIA.md](METODOLOGIA.md).
 
 ## O que a LIO-L faz
 
